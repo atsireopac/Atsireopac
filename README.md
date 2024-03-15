@@ -1,7 +1,7 @@
 ## Olá!  Eu sou Erik Barbosa
   Formado em curso superior de Tecnologia de Gestão Pública, pela Universidade Cruzeiro do Sul;<br>
   Pós graduado em Gestão de Negócios e Tecnologia da Informação pela Faculdade Digital Descomplica;<br>
-  Formado em curso superior de Tecnologia de Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Estácio.
+  Formado em curso superior de Tecnologia de Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Estácio.<br>
   Graduando em curso superior de Engenharia de Software, pela Faculdade Ampli Anhanguera.
 
 
