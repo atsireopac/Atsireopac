@@ -1,7 +1,8 @@
 ## Olá!  Eu sou Erik Barbosa
   Formado em curso superior de Tecnologia de Gestão Pública, pela Universidade Cruzeiro do Sul;<br>
-  Estudante de pós graduação em Gestão de Negócios e Tecnologia da Informação, na Faculdade Descomplica;<br>
-  Estudante, no terceiro semestre, em curso superior de Tecnologia de Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Estácio.
+  Pós graduado em Gestão de Negócios e Tecnologia da Informação pela Faculdade Digital Descomplica;<br>
+  Formado em curso superior de Tecnologia de Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Estácio.
+  Graduando em curso superior de Engenharia de Software, pela Faculdade Ampli Anhanguera.
 
 
   Minhas primeiras experiências profissionais foram em estágios no Centro de Assistência Social e escolas públicas nos anos de 2009 à 2011. Entre os anos de 2012 à 2014, dediquei-me a preparação para concursos públicos. A partir de 2014 trabalhei em call centers pela Secretária de Direitos Humanos da Presidência da República, Eletrobrás, Ministério do Trabalho e Emprego, eSocial e Vivo (Telefônica). Também tive a oportunidade de ser voluntário por três vezes para o Tribunal Regional Eleitoral do Distrito Federal, nas eleições de 2010, 2014 e 2018.
