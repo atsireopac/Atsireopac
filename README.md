@@ -1,28 +1,56 @@
-## Olá!  Eu sou Erik Barbosa
-  Formado em curso superior de Tecnologia de Gestão Pública, pela Universidade Cruzeiro do Sul;<br>
-  Pós graduado em Gestão de Negócios e Tecnologia da Informação pela Faculdade Digital Descomplica;<br>
-  Formado em curso superior de Tecnologia de Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Estácio.<br>
-  Graduando em curso superior de Engenharia de Software, pela Faculdade Ampli Anhanguera.
+## Olá! Eu sou Erik Barbosa
 
+<div align="center">
+  <a href="https://github.com/atsireopac">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atsireopac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsireopac&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
 
-  Minhas primeiras experiências profissionais foram em estágios no Centro de Assistência Social e escolas públicas nos anos de 2009 à 2011. Entre os anos de 2012 à 2014, dediquei-me a preparação para concursos públicos. A partir de 2014 trabalhei em call centers pela Secretária de Direitos Humanos da Presidência da República, Eletrobrás, Ministério do Trabalho e Emprego, eSocial e Vivo (Telefônica). Também tive a oportunidade de ser voluntário por três vezes para o Tribunal Regional Eleitoral do Distrito Federal, nas eleições de 2010, 2014 e 2018.
+### 🧠 Sobre mim:
 
-  No decorrer da minha vida profissional muitas experiências foram apreendidas, alguns projetos pessoais paralisados, outros iniciados, porque o mundo profissional globalizado nos exige mudanças rápidas para nós adequar ao mercado de trabalho. No entanto, o meu propósito é trabalhar com tecnologia da informação seja no setor público ou privado. É o que eu amo fazer, é o que sempre fiz intuitivamente desde criança, é o que acredito para soluções dos problemas contemporâneos de nossa sociedade.
-<div align ="center" >
-  <A href="https://github.com/atsireopac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atsireopac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsireopac&layout=compact&langs_count=16&theme=dark"/>
-    </div>
-<Div style = "display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
-  ##
-  <div>
-      <a href="https://www.linkedin.com/in/erikbarbosadacosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
++ 1 ano de experiência em arquitetura e sustentação de software na Fundação Universidade de Brasília.  
++ 1 ano de experiência em monitoração de redes de computadores na Caixa Econômica Federal.  
++ 5 anos de experiência em serviços de call centers para órgãos públicos, entre eles: Secretaria de Direitos Humanos da Presidência da República, Eletrobrás e Ministério do Trabalho e Emprego.  
++ 3 anos de experiência em estágio em órgãos públicos, entre eles: escolas públicas do Distrito Federal, Centro de Assistência Social e Centro de Orientação Sócio Educativa.
+
+### 🎓 Formação Acadêmica:
+
+- Especialização em Engenharia de Software – Faculdade Digital Descomplica (2025)  
+- MBA em Gestão de Negócios de Tecnologia da Informação – Faculdade Digital Descomplica (2021)  
+- Bacharelado em Engenharia de Software – Ampli (2025)  
+- Tecnólogo em Análise e Desenvolvimento de Sistemas – Estácio (2022)  
+- Tecnólogo em Gestão Pública – Universidade Cruzeiro do Sul (2017)  
+- Técnico em Manutenção e Suporte em Informática – Anhanguera (2024)  
+- Programa de Extensão UnB Idiomas – Inglês Básico I (2025)
+
+### 🤝 Trabalho Voluntário:
+
+- Atuação como mesário em 4 eleições nacionais: 2010, 2014, 2018 e 2022.
+
+### 🏆 Aprovações em Concursos Públicos:
+
+- Secretaria de Economia do Distrito Federal – Analista de Tecnologia da Informação  
+  (Edital: 2022 – aguardando nomeação)  
+- Fundação Universidade de Brasília – Analista de Tecnologia da Informação  
+  (Edital: 2019 – Nomeado em 16/01/2024 no D.O.U)  
+  - Fiquei em 3º lugar, com direito a artigo de aprovação no blog do Gran Cursos:  
+    [Leia aqui](https://blog.grancursosonline.com.br/concurso-fub-aprovado-erik-b/)
+
+### 📡 Contato e Redes:
+
+Caso tenha interesse em trocar experiências, informações sobre cursos e bootcamps na área de TI, propostas de empregos ou estágios, fique à vontade para me adicionar e seguir:
+
+<div>
+  <a href="https://www.linkedin.com/in/erikbarbosadacosta/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+### 💻 Tecnologias que utilizo:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
