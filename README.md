@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mim:
 
-+ 1 ano de experiência em sustentação e arquitetura de software na Fundação Universidade de Brasília.  
++ 2 ano de experiência em sustentação e arquitetura de software na Fundação Universidade de Brasília.  
 + 1 ano de experiência em monitoração de redes de computadores na Caixa Econômica Federal.  
 + 5 anos de experiência em serviços de call centers para órgãos públicos, entre eles: Secretaria de Direitos Humanos da Presidência da República, Eletrobrás e Ministério do Trabalho e Emprego.  
 + 3 anos de experiência em estágio em órgãos públicos, entre eles: escolas públicas do Distrito Federal, Centro de Assistência Social e Centro de Orientação Sócio Educativa.
